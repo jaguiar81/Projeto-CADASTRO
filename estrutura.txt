@@ -1,0 +1,6 @@
+estrutura de pastas
+
+imagens
+css
+js
+arquivos html
